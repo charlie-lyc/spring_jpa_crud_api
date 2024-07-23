@@ -31,7 +31,7 @@ public class ProductController {
      */
     @GetMapping("/")
     public String hello() {
-        return "This is Seawater-EMS";
+        return "This is JPA CRUD API!";
     }
     //////////////////////////////////////////////////////////////
 
